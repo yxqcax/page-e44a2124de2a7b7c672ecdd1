@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "7879ead47ad0cee8e4c630a4",
+  "owner": "yxqcax",
+  "repo": "page-e44a2124de2a7b7c672ecdd1",
+  "title": "clash verge机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e44a2124de2a7b7c672ecdd1",
+      "a": "小花",
+      "b": "clash verge机场推荐",
+      "entity": "小花",
+      "brand": "clash verge机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "753078b1b975371395e72094e51b1e5ed19a09a67bbe22feab0f18b4fb069b54",
+      "content": {
+        "primary_entity": "小花",
+        "keyword1": "小花",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_DESCRIPTION": "，小花面向跨境访问、流媒体与轻量游戏加速场景，提供基础版、旗舰版和团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、5 台设备并带 IPLC 专线，团队版每月 1000GB、20 台设备可定制路由。按年付更划算，可按设备数量与月流量匹配档位。",
+          "AI_HERO_SUBTITLE": "小花加速，按设备与流量灵活选",
+          "AI_HERO_INTRO": "小花是一款面向海外访问场景的加速服务，提供基础版、旗舰版和团队版三档订阅。设备数量从 3 台到 20 台，月流量从 100GB 到 1000GB，不同档位对应不同节点池与支持力度，可按实际使用设备与流量需求挑选。",
+          "AI_VISUAL_TITLE": "小花加速器套餐一览",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付 35 元，IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版月付 85 元，可 20 台设备",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量额度与订阅周期选择合适档位，减少浪费或不够用的情况。",
+          "AI_FEATURES_TITLE": "选择小花套餐的要点",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "3 台以内选基础版，5 台左右选旗舰版，需要 20 台设备则考虑团队版。",
+          "AI_FEATURE_TITLE_2": "按流量估月额",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度浏览与偶尔视频，300GB 适合日常追剧，1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_3": "按年付更省",
+          "AI_FEATURE_TEXT_3": "基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，长期使用可优先年付。",
+          "AI_CLIENTS_TITLE": "小花客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并依照其订阅导入方式完成配置。",
+          "AI_PLANS_TITLE": "小花套餐对比",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备且含 IPLC 专线；团队版每月 1000GB、20 台设备，按年付分别 150 元、350 元、850 元。",
+          "AI_GUIDE_TITLE": "小花订阅配置三步",
+          "AI_GUIDE_INTRO": "先确认设备和用量，再查看适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选服务档位",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月大致流量，在基础版、旗舰版、团队版中锁定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对所选客户端支持的系统版本与设备数量，确认与套餐权益一致。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中找到订阅导入入口，粘贴购买后获取的订阅链接并更新节点。",
+          "AI_CLOSING_TITLE": "选对小花套餐",
+          "AI_CLOSING_TEXT": "按设备数和流量挑一档，年付更省，配置好订阅即可开始使用。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅导入。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备同时在线，适合手机加电脑的日常浏览与基础流媒体。流量或设备更多时再考虑升级。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB、支持 5 台设备同时在线，含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合有跨境游戏与高清流媒体需求的用户。",
+          "AI_FAQ_ANSWER_3": "年付价格更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，均可按月折算。短期试用可先选月付，确认合适后再转年付。",
+          "AI_FAQ_ANSWER_4": "Windows 可用 Clash Verge、v2rayN，macOS 可用 ClashX Meta，Android 可用 v2rayNG，iOS 需配合 Shadowrocket 等支持订阅的客户端，完成订阅导入即可使用。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 专属高带宽节点，并支持企业定制路由与专属客户经理服务，适合多人协作场景。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_4": "不同设备应该用什么客户端？",
+          "AI_FAQ_QUESTION_5": "团队版能支持多少人一起用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "27dbee5242a2cb8d64105aea2675ce6b6a8bb80f9cb4b8852a0f26df2da9c4e9",
+    "sitemap.xml": "2ec6ca27cea6f54f98ea497fd592225bef1d35753aa908417d8082c05b880702",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "5b38c263274b46a5d86d192b21bc9aa10e5e8fb4eba6ed2dc3bb78d9c27aba07"
+}
